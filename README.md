@@ -1,1 +1,7 @@
-# Modelo-de-Regress-o-para-Marketing
+# Modelo de Regressão para Marketing
+#Aplicação do conhecimento de regressão para estrutura uma análise em um dataset de uma campanha de marketing. Estudo de Caso: Uma empresa está investindo mensalmente em plataformas de publicidade online, como Youtube, Facebook e newspaper, para a prospecção de leads (pessoas interessadas em seus produtos). A fim de acompanhar o desempenho desses investimentos, a empresa registra todos os gastos com publicidade e todos os retornos de vendas gerados a partir desses investimentos.
+Métricas: Com base no contexto acima e metas do negócio determinantes, podemos avaliar as seguintes considerações:
+1.	Análise Descritiva: Utilizamps a biblioteca Pandas para importar e manipular os dados e realizar os cálculos estatísticos, além das bibliotecas (seaborn, numpy, chart_studio.plotly, cufflinks, plotly.graph_objects, plotly.express) de visualizações.
+2.	Análise Exploratória: Foi utilizado o modelo de Regressão para marketing onde foi apresentado análises estatísticas (visualização de dados), apresentando correlações e identificação de possíveis outliers ou desvio de normalidade.
+3.	Modelagem: Criado um modelo simples de regressão, onde permite a previsão solicitada pela empresa com base nos dados.
+4.	Cálculo Predição: Previsões para retorno de vendas que pode ser gerado a partir de um determinado investimento em publicidade. Através dessas previsões, podemos avaliar o impacto dos diferentes níveis de investimento em marketing nas vendas, auxiliando na tomada de decisões e nas definições de estratégias de negócio.
